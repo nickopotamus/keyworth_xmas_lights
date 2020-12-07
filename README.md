@@ -8,32 +8,32 @@
 ---
 
 The optimal solution:
-* Start: 6 Willowbrook Keyworth
-* 1: 204 Mount Pleasant Keyworth
-* 2: 1 Wolds Rise Keyworth
-* 3: 6 Lyncombe Gardens Keyworth
-* 4: 1 Covert Close Keyworth
-* 5: 27 Walton Drive Keyworth
-* 6: 54 Ashley Road Keyworth
-* 7: 24 Ashley Road Keyworth
-* 8: 45 Normanton Lane Keyworth
-* 9: 26 Rose Grove Keyworth
-* 10: 9 Beaumont Close Keyworth
-* 11: 2 Rancliffe Avenue Keyworth
-* 12: 7A Dale Road Keyworth
-* 13: 11 Bunny Lane Keyworth
-* 14: 13 West Close Keyworth
-* 15: 84A Manor Road Keyworth
-* 16: 29 Hayes Road Keyworth
-* 17: 52 Spinney Road Keyworth
-* 18: 51 Park Avenue West Keyworth
-* 19: 2 Roseland Close Keyworth
-* 20: 5 Wrights Orchard Keyworth
-* 21: 68 Selby Lane Keyworth
-* 22: Keyworth Tavern Fairway Keyworth
-* 23: 46 Beech Avenue Keyworth
-* 24: 16 Lilac Close Keyworth
-* Finish: 6 Willowbrook Keyworth
+* Start: 6 Willowbrook 
+* 1: 204 Mount Pleasant 
+* 2: 1 Wolds Rise 
+* 3: 6 Lyncombe Gardens 
+* 4: 1 Covert Close 
+* 5: 27 Walton Drive 
+* 6: 54 Ashley Road 
+* 7: 24 Ashley Road 
+* 8: 45 Normanton Lane 
+* 9: 26 Rose Grove 
+* 10: 9 Beaumont Close 
+* 11: 2 Rancliffe Avenue 
+* 12: 7A Dale Road 
+* 13: 11 Bunny Lane 
+* 14: 13 West Close 
+* 15: 84A Manor Road 
+* 16: 29 Hayes Road 
+* 17: 52 Spinney Road 
+* 18: 51 Park Avenue West 
+* 19: 2 Roseland Close 
+* 20: 5 Wrights Orchard 
+* 21: 68 Selby Lane 
+* 22: Keyworth Tavern, then down Fairway 
+* 23: 46 Beech Avenue 
+* 24: 16 Lilac Close 
+* Finish: 6 Willowbrook 
 
 ---
 

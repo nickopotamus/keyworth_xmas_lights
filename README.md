@@ -35,9 +35,12 @@ The optimal solution:
 * 24: 16 Lilac Close Keyworth
 * Finish: 6 Willowbrook Keyworth
 
+---
+
 Map of all the displays: https://www.google.com/maps/d/u/0/edit?mid=19TiYH4ekRraLXnt2KKTe9lhoMZw-VFbh&usp=sharing
 
 Map of the optimal route: https://tinyurl.com/keyworth-route
 
+GPX file of the optimal route: https://github.com/nickopotamus/keyworth_xmas_lights/blob/main/keyworth_lights_201207.gpx
 
 

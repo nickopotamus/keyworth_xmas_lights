@@ -1,4 +1,4 @@
-# Solving the travelling salesman problem for the Keyworth Christmas Lights
+# Optimising a route from the Keyworth Christmas displays
 
 * Solving the [TSP](https://en.wikipedia.org/wiki/Travelling_salesman_problem) for quickest way to walk around the village [using Google OR-Tools](https://developers.google.com/optimization/routing/tsp)
 * Combines the [Keyworth Community Projects page](https://www.facebook.com/189497114572953/posts/1583160051873312/?extid=0&d=n) and Keyworth Christmas Trail and the [Friends of Willow Brook](http://www.willowbrook-gst.org/friends-of-willow-brook/) Winter Wonderland Windows into one festive tour.
